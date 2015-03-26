@@ -1,0 +1,1 @@
+To test this program, I used a variety of input files, some of which I have included in the docs folder and integrated into the makefile. 
